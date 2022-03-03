@@ -6,24 +6,23 @@
 	<body>
 		<div>
 			1. Подключение к учебному серверу 212.192.134.20 по SSH с помощью клиента Putty.<br>
-			<img src="screens/putty.png"></br>
+			<img src="kemran/putty.png"></br>
 		</div>
 		</br> </br> </br>
 		<div>
 			2.Вызов команды ping. Отправляет пакеты по протоколу ICMP на выбранный сервер для  </br>  проверки качества соединения
 			с ним. IP сервера kubsu. ru 212.192.128.92 </br>
-			<img src="screens/ping.png"></br>
+			<img src="kemran/image.png"></br>
 		</div>
 		</br></br>
 		<div>
 			3. Вызов команды nslookup. Это инструмент сетевого администрирования для запросов в доменной<br> системе имен (DNS) с целью получения доменного имени, IP-адреса<br> или другой информации из записей DNS.</p>
-			<img src="screens/nslookup.png"></br></br>
-			<img src="screens/nslookup2.png"></br>
+			<img src="kemran/nslookup.PNG"></br></br>
 		</div>
 		</br> </br>
 		<div>
 			4. Вызов команды whois. Вывод информации о домене и его владельце </br>
-			<img src="screens/whois.png"> </br>
+			<img src="kemran/whois.PNG"> </br>
 		</div>
 		</br></br>
 		<div>
